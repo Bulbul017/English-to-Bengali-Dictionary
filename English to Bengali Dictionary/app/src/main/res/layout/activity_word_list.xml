@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradiant_blue"
+    tools:context=".WordList">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="212dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="Included Words"
+        android:textColor="#FFFFFF"
+        android:textSize="26sp"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.431"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.051" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="390dp"
+        android:layout_height="646dp"
+        android:layout_marginTop="128dp"
+        android:text="Bed, Boat, Wash, Ice, King, Room, Prove, Two, Book, Beautiful, Ten, Seed, Toy, Rope, Tear, Box, Kite, Old, Visit, New, Boy, Lost, Here, Quick, Bat, Rock, Wall, Cat, Ink ,Read, Sing, Union, That, Tip, Fox, Dog, Class, Win, Dive, Go, Job, Nice, Else, More, High, Well, Nine, Load, Water, Doll, Next, Jar, Joy, Map, Bag, Hope, Apple, Table, Peace, Run, Try, Sale, West, Pen, Slow, Bid, Pond, Easy, When, Open."
+        android:textSize="26sp"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
