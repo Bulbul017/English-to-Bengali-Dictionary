@@ -20,3 +20,9 @@ The word-to-word translation mechanism has been built using "Perfect Hashing".
 ## APK link 
 
 > Download & Install the app from [here](https://drive.google.com/file/d/1U4SlOucW4FLF-CuVSLfD0oo9NW4DVw4S/view?usp=sharing)
+
+## Short simulation video 
+
+> You can view a short simulation of the app from [here](https://drive.google.com/file/d/1fgEM6WyX1_b0BT5qPTrr-fGTFMB5B9aj/view?usp=sharing) 
+
+
